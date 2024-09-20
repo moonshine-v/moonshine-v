@@ -1,16 +1,14 @@
 ## Hi there 👋
+## About Me 
+👩‍💻 Hi! My name is **Helen**, and I'm currently studying **IT** at university. I'm passionate about learning and growing in the tech field, and I'm particularly interested in specializing in **C++**.
 
-<!--
-**moonshine-v/moonshine-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Personality 
+😄 Funny  
+🌍 Sociable  
+🎯 Always eager to learn new things
 
-Here are some ideas to get you started:
+## Goals 
+💻 Specialize in **C++** and improve my programming skills  
+🤝 Connect with others in the tech community and grow together
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out if you'd like to chat about tech or just have a good laugh!
